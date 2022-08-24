@@ -26,6 +26,7 @@ My **[web portfolio ()](/)🧙‍♂️** can help you understand my career path
         <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kisnak21&theme=monokai"
             alt="kisnak21's Github commit streak">
     </a>
+    
 ---
     
 ## **📫 How to reach me**
