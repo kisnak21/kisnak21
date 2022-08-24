@@ -8,7 +8,7 @@ My **[web portfolio ()](/)🧙‍♂️** can help you understand my career path
 
 ## **😊 About me**
 
-- 🔭 I’m currently studying in **Universitas Tanjungpura(https://untan.ac.id/)**.
+- 🔭 I’m currently studying in **[Kresna Satya Nugroho](https://www.linkedin.com/in/kresna-satya-nugroho-0bb3b1227/)**
 - 🌱 I’m learning HTML,CSS,JS and Flutter.
 - 👯 I’m looking to start a brand-new project/idea.
 - 🤔 I’m looking for help finding a job while I finish up my university degree.
