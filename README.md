@@ -38,11 +38,11 @@ My **[web portfolio ()](/)🧙‍♂️** can help you understand my career path
             alt="Kisnak21's Gmail">
     </a>
     <a href="https://www.linkedin.com/in/kresna-satya-nugroho-0bb3b1227/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&labelColor=5c5c5c&color=0A66C2&logoColor=white&label=%40"
             alt="Kisnak21's LinkedIn">
     </a>
     <a href="https://wa.me/6285654642858">
-        <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&labelColor=5c5c5c&color=25D366&logoColor=white&label=%20"
+        <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&labelColor=5c5c5c&color=25D366&logoColor=white&label=%40"
             alt="Kisnak21's Whatsapp">
     </a>
 </div>
