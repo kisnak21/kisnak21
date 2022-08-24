@@ -2,7 +2,7 @@
 
 Full-time **Sistem Komputer Student** (**[SISKOM](http://pddikti.untan.ac.id/mahasiswax/profile/cUw5ZzR3Yi95SUFlYWZycDcxY1FiZz09)**)🧑‍🎓🎓.
 
-My **[web portfolio (https://portfolio-web-eosin.vercel.app/)](/)🧙‍♂️** can help you understand my career path and professional trajectory.
+My **[web portfolio (https://portfolio-web-eosin.vercel.app/)]🧙‍♂️** can help you understand my career path and professional trajectory.
 
 ---
 
