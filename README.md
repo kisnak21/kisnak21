@@ -1,6 +1,7 @@
 # Hi there, I'm **[Kresna Satya Nugroho](https://www.linkedin.com/in/kresna-satya-nugroho-0bb3b1227/)**! 👋
 
-Full-time **Sistem Komputer Student** (**[SISKOM](http://pddikti.untan.ac.id/mahasiswax/profile/cUw5ZzR3Yi95SUFlYWZycDcxY1FiZz09)**)🧑‍🎓🎓
+Full-time **Sistem Komputer Student** (**[SISKOM](http://pddikti.untan.ac.id/mahasiswax/profile/cUw5ZzR3Yi95SUFlYWZycDcxY1FiZz09)**)🧑‍🎓🎓.
+
 My **[web portfolio ()](/)🧙‍♂️** can help you understand my career path and professional trajectory.
 
 ---
