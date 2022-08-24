@@ -32,9 +32,9 @@ My **[web portfolio ()](/)🧙‍♂️** can help you understand my career path
     
 ## **📫 How to reach me**
 
-<div align="center" style="text-align:center">
+<div align="justify" style="text-align:center">
     <a href="mailto:krisnastya21@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
+        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&labelColor=5c5c5c&color=EA4335&logoColor=white&label=%20"
             alt="Kisnak21's Gmail">
     </a>
     <a href="https://www.linkedin.com/in/kresna-satya-nugroho-0bb3b1227/">
