@@ -42,7 +42,7 @@ My **[web portfolio ()](/)🧙‍♂️** can help you understand my career path
             alt="Kisnak21's LinkedIn">
     </a>
     <a href="https://wa.me/6285654642858">
-        <img src="https://img.shields.io/badge/WhatsApp-whatsapp-%2325D366"
+        <img src="https://img.shields.io/static/v1?message=React&logo=react&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20"
             alt="Kisnak21's Whatsapp">
     </a>
 </div>
