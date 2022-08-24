@@ -41,4 +41,14 @@ My **[web portfolio ()](/)🧙‍♂️** can help you understand my career path
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="Kisnak21's LinkedIn">
     </a>
+    <a href="https://wa.me/6285654642858">
+        <img src="https://img.shields.io/badge/WhatsApp-whatsapp-%2325D366"
+            alt="Kisnak21's Whatsapp">
+    </a>
 </div>
+
+---
+
+<br>
+
+_Made with a lot of ❤️❤️ by **[@kisnak21](https://github.com/kisnak21)**_
