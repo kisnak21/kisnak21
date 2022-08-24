@@ -45,6 +45,10 @@ My **[web portfolio ()](/)🧙‍♂️** can help you understand my career path
         <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&labelColor=5c5c5c&color=25D366&logoColor=white&label=%20"
             alt="Kisnak21's Whatsapp">
     </a>
+    <a href="https://www.instagram.com/kisnaaakk/?hl=en">
+        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&labelColor=5c5c5c&color=E4405F&logoColor=white&label=%50"
+            alt="Kisnak21's Instagram">
+    </a>
 </div>
 
 ---
