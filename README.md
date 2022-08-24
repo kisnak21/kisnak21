@@ -1,8 +1,6 @@
-# Halo semua! 
+# Hi there, I'm **[Kresna Satya Nugroho]https://www.linkedin.com/in/kresna-satya-nugroho-0bb3b1227/)**! 👋
 
-Perkenalkan nama saya **Kresna Satya Nugroho**.\
-Saya seorang **Mahasiswa Jurusan Sistem Komputer** di [Universitas Tanjungpura](https://untan.ac.id/).\
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/kresna-satya-nugroho-0bb3b1227/).
+Full-time **Sistem Komputer Student** (**[SISKOM](http://pddikti.untan.ac.id/mahasiswax/profile/cUw5ZzR3Yi95SUFlYWZycDcxY1FiZz09)**)🧑‍🎓🎓
 
 <p align="left">
 <a href="https://github.com/kisnak21">
