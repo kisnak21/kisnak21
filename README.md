@@ -13,7 +13,7 @@ My **[web portfolio ()](/)🧙‍♂️** can help you understand my career path
 - 👯 I’m looking to start a brand-new project/idea.
 - 🤔 I’m looking for help finding a job while I finish up my university degree.
 - 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
-- ⚡ Fun fact: Others turn coffee into code; I prefer working out 🏋🏽 or going out with the bike 🚴
+- ⚡ Fun fact: Others working out 🏋🏽 or going out with the bike 🚴; I prefer turn the coffee into code.
 
 <p align="left">
 <a href="https://github.com/kisnak21">
