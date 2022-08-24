@@ -15,9 +15,19 @@ My **[web portfolio ()](/)🧙‍♂️** can help you understand my career path
 - 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
 - ⚡ Fun fact: Others working out 🏋🏽 or going out with the bike 🚴; I prefer turn the coffee into code.
 
-<p align="left">
-<a href="https://github.com/kisnak21">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kisnak21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kisnak21&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+## **📊 Stats**
+
+<div align="center" style="text-align:center">
+    <a href="#">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kisnak21&show_icons=true&theme=monokai&count_private=true"
+            alt="Kisnak21's Github stats">
+    </a>
+    <a href="#">
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kisnak21&theme=monokai"
+            alt="kisnak21's Github commit streak">
+    </a>
+    <a href="https://wakatime.com/@Josee9988/">
+        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Josee9988&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
+            alt="Josee9988's wakatime last year stats">
+    </a>
+</div>
