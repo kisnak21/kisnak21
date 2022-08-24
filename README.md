@@ -32,7 +32,7 @@ My **[web portfolio ()](/)🧙‍♂️** can help you understand my career path
     
 ## **📫 How to reach me**
 
-<div align="justify" style="text-align:center">
+<div align="center" style="text-align:center">
     <a href="mailto:krisnastya21@gmail.com">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&labelColor=5c5c5c&color=EA4335&logoColor=white&label=%20"
             alt="Kisnak21's Gmail">
@@ -46,7 +46,7 @@ My **[web portfolio ()](/)🧙‍♂️** can help you understand my career path
             alt="Kisnak21's Whatsapp">
     </a>
     <a href="https://www.instagram.com/kisnaaakk/?hl=en">
-        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&labelColor=5c5c5c&color=E4405F&logoColor=white&label=%50"
+        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&labelColor=5c5c5c&color=E4405F&logoColor=white&label=%20"
             alt="Kisnak21's Instagram">
     </a>
 </div>
