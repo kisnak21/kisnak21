@@ -15,6 +15,13 @@ My **[web portfolio](https://portfolio-web-eosin.vercel.app/)**🧙‍♂️ can
 - 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
 - ⚡ Fun fact: Others working out 🏋🏽 or going out with the bike 🚴; I prefer turn the coffee into code.
 
+---
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/d3qfwr02zbluflgmhq4ugw7pz)
+<br/>
+---
+
 ## **📊 Stats**
 
 <div align="center" style="text-align:center">
