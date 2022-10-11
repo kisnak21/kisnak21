@@ -8,7 +8,7 @@ Full-time **Sistem Komputer Student** (**[SISKOM](http://pddikti.untan.ac.id/mah
 ## **😊 About me**
 
 - 🔭 I’m currently studying in **[Tanjungpura University](https://untan.ac.id/)**
-- 🌱 I’m learning HTML,CSS,JS and Flutter.
+- 🌱 I’m learning HTML,CSS,JS,React and Flutter.
 - 👯 I’m looking to start a brand-new project/idea.
 - 🤔 I’m looking for help finding a job while I finish up my university degree.
 - 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
