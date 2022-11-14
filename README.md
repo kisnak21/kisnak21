@@ -17,7 +17,7 @@ Full-time **Sistem Komputer Student** (**[SISKOM](http://pddikti.untan.ac.id/mah
 ---
 ### 🎧 Now Playing 
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/d3qfwr02zbluflgmhq4ugw7pz)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31xpoy7n5dqwm2423mfosoifmmt4)
 <br/>
 ---
 
