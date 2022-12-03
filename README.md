@@ -8,7 +8,7 @@ Full-time **Sistem Komputer Student** (**[SISKOM](http://pddikti.untan.ac.id/mah
 ## **😊 About me**
 
 - 🔭 I’m currently studying in **[Tanjungpura University](https://untan.ac.id/)**
-- 🌱 I’m learning HTML,CSS,JS,React and Flutter.
+- 🌱 I’m learning HTML, CSS, JS, React and Tailwind
 - 👯 I’m looking to start a brand-new project/idea.
 - 🤔 I’m looking for help finding a job while I finish up my university degree.
 - 💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!
@@ -47,10 +47,7 @@ Full-time **Sistem Komputer Student** (**[SISKOM](http://pddikti.untan.ac.id/mah
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&labelColor=5c5c5c&color=0A66C2&logoColor=white&label=%20"
             alt="Kisnak21's LinkedIn">
     </a>
-    <a href="https://wa.me/6285654642858">
-        <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&labelColor=5c5c5c&color=25D366&logoColor=white&label=%20"
-            alt="Kisnak21's Whatsapp">
-    </a>
+    
     <a href="https://www.instagram.com/kisnaaakk/?hl=en">
         <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&labelColor=5c5c5c&color=E4405F&logoColor=white&label=%20"
             alt="Kisnak21's Instagram">
