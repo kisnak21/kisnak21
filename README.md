@@ -47,11 +47,6 @@ Full-time **Sistem Komputer Student** (**[SISKOM](http://pddikti.untan.ac.id/mah
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&labelColor=5c5c5c&color=0A66C2&logoColor=white&label=%20"
             alt="Kisnak21's LinkedIn">
     </a>
-    
-    <a href="https://www.instagram.com/kisnaaakk/?hl=en">
-        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&labelColor=5c5c5c&color=E4405F&logoColor=white&label=%20"
-            alt="Kisnak21's Instagram">
-    </a>
 </div>
 
 ---
