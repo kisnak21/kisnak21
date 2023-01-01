@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently studying in **[Tanjungpura University](https://untan.ac.id/)**<br>🌱 I’m learning HTML, CSS, JS, React and Tailwind<br>👯 I’m looking to start a brand-new project/idea. <br>🤔 I’m looking for help finding a job while I finish up my university degree.<br>💬 Ask me about anything, but for now, I'm fully open to new projects, collaborations or ideas!<br>⚡ Fun fact: Others working out 🏋🏽 or going out with the bike 🚴; I prefer turn the coffee into code.
 
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kisnak#0241) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kisnaak.ngroho) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kresna-satya-nugroho-0bb3b1227) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kisnaknugroho1801) 
 
@@ -12,7 +13,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kisnak21&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ### 🎧 Now Playing 
 
