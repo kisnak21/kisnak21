@@ -15,15 +15,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ### 🎧 Now Playing 
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31xpoy7n5dqwm2423mfosoifmmt4)
 
 ---
-
 [![](https://visitcount.itsvg.in/api?id=kisnak21&icon=9&color=0)](https://visitcount.itsvg.in)
 
 _Made with a lot of ❤️❤️ by **[@kisnak21](https://github.com/kisnak21)**_
