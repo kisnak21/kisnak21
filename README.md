@@ -1,6 +1,6 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kisnak+Nugroho!;A frontend enthusiast" />
-</h1>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=4000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Kisnak+Nugroho;A+frontend+enthusiast" alt="Typing SVG" /></a>
+</div>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
