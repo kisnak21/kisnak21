@@ -2,9 +2,11 @@
 
 # Kresna Satya Nugroho
 
-### Fullstack Web Developer · Frontend Developer · Software Engineer
+### Fullstack Web Developer · Software Engineer · Coding Educator
 
-I build secure, tested web applications with Next.js, TypeScript, React, and PostgreSQL.
+I turn product ideas into secure, tested web applications, then help others learn how to build their own.
+
+`Next.js 16` `React 19` `TypeScript` `PostgreSQL` `Prisma 7`
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-0f766e?style=for-the-badge&logo=vercel&logoColor=white)](https://kisnaknugroho.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-155e75?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kresnasatyanugroho)
@@ -35,11 +37,13 @@ const kresna = {
 };
 ```
 
-## Selected work
+## What I build
+
+My projects sit at the intersection of product engineering, web security, and practical problem-solving.
 
 ### Buildfolio
 
-A fullstack platform where developers can publish, discover, and discuss projects.
+**A project-sharing platform built for developers.** Publish work, discover other projects, and join the discussion in one fullstack application.
 
 - Refactored the original React and Vite SPA into a type-safe Next.js 16 application.
 - Built custom JWT authentication with httpOnly cookies, Google OAuth, email verification, and IP-based rate limiting.
@@ -52,7 +56,7 @@ A fullstack platform where developers can publish, discover, and discuss project
 
 ### Teman Bicara
 
-An anonymous support community built around safe content publishing and accessible discussion.
+**A private space for open conversation.** An anonymous support community with rich-text publishing, secure sessions, sanitized content, and tested user flows.
 
 - Developed the application with Next.js 16 App Router, React 19, Server Actions, and Tiptap v3.
 - Implemented Auth.js v5 session management with JWT and bcrypt.
@@ -65,7 +69,7 @@ An anonymous support community built around safe content publishing and accessib
 
 ### Smartlamp Automation
 
-An IoT management dashboard and machine-learning system developed as my undergraduate thesis.
+**A thesis project that connects IoT, web development, and machine learning.** A smart-lamp dashboard backed by Flask and a C5.0 decision tree.
 
 - Connected a web dashboard to a Flask backend for smart-lamp management.
 - Applied the C5.0 decision-tree algorithm to predict user behavior with 98.61% accuracy.
@@ -151,7 +155,11 @@ The bootcamp covered React, Next.js, Node.js, Express, PostgreSQL, Prisma, REST 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kisnak21&theme=transparent&hide_border=true&ring=0f766e&fire=155e75&currStreakLabel=0f766e" alt="Kresna's GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kisnak21&bg_color=00000000&color=64748b&line=0f766e&point=155e75&area=true&hide_border=true" alt="Kresna's GitHub contribution graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kisnak21/kisnak21/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kisnak21/kisnak21/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/kisnak21/kisnak21/output/github-contribution-grid-snake.svg" alt="Kresna's GitHub contribution activity" />
+</picture>
 
 </div>
 
